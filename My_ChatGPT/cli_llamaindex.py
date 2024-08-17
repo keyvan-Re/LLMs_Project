@@ -35,7 +35,7 @@ def signal_handler(signal, frame):
 
 VECTOR_SEARCH_TOP_K = 2
 
-api_path ='api_key_list.txt'
+api_path ='/content/LLMs_Project/api_key_list.txt'
 
 def read_apis(api_path):
     api_keys = []
