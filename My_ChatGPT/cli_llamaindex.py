@@ -178,7 +178,7 @@ def main():
     hello_msg,user_memory,user_memory_index = enter_name_llamaindex(user_name,memory,data_args)
     print(hello_msg)
     api_index = 0
-    print("Welcome to use SiliconFriend model，please enter your question to start conversation，enter \"clear\" to clear conversation ，enter \"stop\" to stop program")
+    print("Welcome to use chatgpt model，please enter your question to start conversation，enter \"clear\" to clear conversation ，enter \"stop\" to stop program")
     while True:
         query = input(f"\n{user_name}：")
         if query.strip() == "stop":
@@ -186,7 +186,7 @@ def main():
         if query.strip() == "clear":
             history = []
             os.system(clear_command)
-            print("Welcome to use SiliconFriend model，please enter your question to start conversation，enter \"clear\" to clear conversation ，enter \"stop\" to stop program")
+            print("Welcome to use chatgpt model，please enter your question to start conversation，enter \"clear\" to clear conversation ，enter \"stop\" to stop program")
             continue
         count = 0
         history_state, history, msg = predict_new(text=query,history=history,top_p=0.95,temperature=1,max_length_tokens=1024,max_context_length_tokens=200,
