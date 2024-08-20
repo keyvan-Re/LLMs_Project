@@ -1,42 +1,43 @@
 # -*- coding:utf-8 -*-
+# Import necessary libraries and modules
 import os, shutil
 import logging
 import sys, openai
 import copy
 import time, platform
-
-# from typing import TYPE_CHECKING, Any, Callable, Dict, List, Tuple, Type
 import signal,json
 import gradio as gr
 import nltk
 import torch
 from langchain.llms import AzureOpenAI,OpenAIChat
 
-
+# Import necessary libraries and modules
 prompt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../')
 sys.path.append(prompt_path)
 from utils.sys_args import data_args,model_args
 from utils.app_modules.utils import *
-#  
 from utils.app_modules.presets import *
 from utils.app_modules.overwrites import *
 from utils.prompt_utils import *
 from utils.memory_utils import enter_name_llamaindex, summarize_memory_event_personality, save_local_memory
 nltk.data.path = [os.path.join(os.path.dirname(__file__), "nltk_data")] + nltk.data.path
-
 from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper, ServiceContext
 os_name = platform.system()
 clear_command = 'cls' if os_name == 'Windows' else 'clear'
 stop_stream = False
-
+# Signal handler for interrupting the stream
 def signal_handler(signal, frame):
     global stop_stream
     stop_stream = True
+    
+#  API Keys and Memory Initialization
+# Constants and configurations
 
 VECTOR_SEARCH_TOP_K = 2
 
 api_path ='/content/LLMs_Project/api_key_list.txt'
 
+# Function to read API keys from a file
 def read_apis(api_path):
     api_keys = []
     with open(api_path,'r',encoding='utf8') as f:
@@ -47,6 +48,7 @@ def read_apis(api_path):
                  api_keys.append(line)
     return api_keys
 
+# Initialize memory and other configurations
 
 memory_dir = os.path.join(data_args.memory_basic_dir,data_args.memory_file)
 if not os.path.exists(memory_dir):
@@ -69,6 +71,7 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] [%(filename)s:%(lineno)d] %(message)s",
 )
 
+# Function to interact with OpenAI's Chat API
 def chatgpt_chat(prompt,system,history,gpt_config,api_index=0):
         retry_times,count = 5,0
         response = None
@@ -112,7 +115,7 @@ def chatgpt_chat(prompt,system,history,gpt_config,api_index=0):
         return response
 
 
-
+# Function to generate a response based on user input and history
 def predict_new(
     text,
     history,
@@ -156,7 +159,7 @@ def predict_new(
     return a, b, "Generating..."
      
     
-
+# Main function to run the chat interface
 def main(): 
     openai.api_key = os.getenv("OPENAI_API_KEY")
     llm_predictor = LLMPredictor(llm=OpenAIChat(model_name="gpt-3.5-turbo"))
