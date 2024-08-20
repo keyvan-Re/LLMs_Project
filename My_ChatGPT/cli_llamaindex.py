@@ -25,6 +25,7 @@ from llama_index import LLMPredictor, GPTSimpleVectorIndex, PromptHelper, Servic
 os_name = platform.system()
 clear_command = 'cls' if os_name == 'Windows' else 'clear'
 stop_stream = False
+
 # Signal handler for interrupting the stream
 def signal_handler(signal, frame):
     global stop_stream
