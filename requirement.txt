@@ -2,7 +2,7 @@ pymupdf
 paddlepaddle==2.6.1
 paddleocr
 langchain==0.0.142
-transformers==4.28.0
+transformers>=4.31.0  # Updated to support `peft`
 unstructured[local-inference]
 layoutparser[layoutmodels,tesseract]
 nltk
@@ -16,7 +16,7 @@ accelerate
 gradio==3.24.1
 fastapi
 uvicorn
-peft
+peft>=0.4.0  # Ensure latest `peft`
 pypinyin
 bitsandbytes
 click~=8.1.3
