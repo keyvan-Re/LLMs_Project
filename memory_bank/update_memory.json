@@ -1,1 +1,911 @@
-{}
+{"Alvin": {
+    "name": "Alvin",
+    "summary": {
+      "core_values": [
+        "Family stability",
+        "Emotional safety"
+      ],
+      "behavioral_patterns": [
+        "Resists authority with tantrums",
+        "Responds well to praise and special attention",
+        "Seeks secure emotional connection through routine"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.4,
+        "conscientiousness": 0.5,
+        "extraversion": 0.3,
+        "agreeableness": 0.6,
+        "neuroticism": 0.7
+      },
+      "recurring_themes": [
+        "Difficulty with authority and transitions",
+        "Importance of caregiver consistency",
+        "Progress through structured praise and bonding"
+      ]
+    },
+    "overall_history": "Alvin initially displayed oppositional behavior and frequent tantrums, especially when given directions. Over the course of five weeks, his grandmother applied praise and special time strategies, resulting in significant behavioral improvements. Alvin began initiating bonding activities and responding positively to routine, culminating in stronger emotional connection and behavioral mastery.",
+    "history": {
+      "2025-04-01": [
+        {
+          "query": "Alvin refuses to listen and has extreme tantrums when I give directions.",
+          "response": "That must be really challenging. Let’s talk more about how Alvin reacts and what usually happens before and after.",
+          "insight": "Alvin shows strong oppositional behavior and tantrums when given instructions. His grandmother struggles with discipline and feels overwhelmed."
+        }
+      ],
+      "2025-04-08": [
+        {
+          "query": "I’ve been practicing special time with Alvin and praising him, but he still has some bossy behavior.",
+          "response": "You’re making important progress. Let’s reinforce praise for specific positive behaviors and ignore the minor bossy remarks for now.",
+          "insight": "Grandmother started applying praise and special time techniques. Alvin still displays bossy behavior, but improvements are emerging."
+        }
+      ],
+      "2025-04-15": [
+        {
+          "query": "Alvin got ready for bed without a tantrum three times this week!",
+          "response": "That’s fantastic progress! Your consistent praise is clearly working. Let’s build on this momentum.",
+          "insight": "Alvin showed reduced tantrums and responded positively to bedtime praise, indicating reinforcement strategies are working."
+        }
+      ],
+      "2025-04-22": [
+        {
+          "query": "I didn’t complete the homework this week, but Alvin asked for special time.",
+          "response": "That’s a sign of your bond growing stronger. Let’s recommit to daily practice to maintain the gains.",
+          "insight": "Despite not completing homework, Alvin showed initiative in seeking special time, signaling growing attachment."
+        }
+      ],
+      "2025-04-29": [
+        {
+          "query": "I feel confident managing Alvin’s behavior now, and we laugh together during play.",
+          "response": "That’s a wonderful development. It sounds like Alvin is feeling more secure and connected to you.",
+          "insight": "Grandmother expresses strong confidence in managing Alvin’s behavior. Their interactions are now affectionate and playful."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Alvin",
+      "age": "4",
+      "gender": "Male",
+      "residence": "USA",
+      "speaking_style": "",
+      "treatment_focus": ""
+    }
+  }
+,"Annie": {
+    "name": "Annie",
+    "summary": {
+      "core_values": ["Independence", "Emotional stability", "Self-efficacy"],
+      "behavioral_patterns": [
+        "Seeks reassurance from spouse during panic",
+        "Avoids anxiety-provoking situations",
+        "Engages in self-monitoring and exposure"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.4,
+        "conscientiousness": 0.6,
+        "extraversion": 0.3,
+        "agreeableness": 0.7,
+        "neuroticism": 0.8
+      },
+      "recurring_themes": [
+        "Fear of losing control",
+        "Gradual progress through coping strategies",
+        "Struggle with morning anxiety"
+      ]
+    },
+    "overall_history": "Annie is a 35-year-old woman struggling with intense panic attacks and avoidance behaviors. Through therapy, she learns coping techniques like breathing exercises and exposure, gradually building confidence in managing her anxiety despite occasional setbacks.",
+    "history": {
+      "2025-04-01": [
+        {
+          "query": "I've been having intense panic attacks, and I feel like I might lose control.",
+          "response": "Panic attacks can feel overwhelming, but you're not alone. Let’s try to understand what triggers them and how we can manage them.",
+          "insight": "Annie fears losing control and relies on her husband for reassurance during panic episodes."
+        },
+        {
+          "query": "Sometimes I fear I'll faint or be unable to escape during one.",
+          "response": "Those fears are common in panic. We’ll explore how your thoughts and behaviors might reinforce the anxiety cycle.",
+          "insight": "She catastrophizes physical symptoms (e.g., fainting) during attacks."
+        },
+        {
+          "query": "I usually call my husband or leave the situation when I panic.",
+          "response": "That’s a safety behavior. Let's consider how this impacts your long-term coping and find empowering alternatives.",
+          "insight": "Avoidance and safety behaviors maintain her anxiety cycle."
+        }
+      ],
+      "2025-04-04": [
+        {
+          "query": "I’ve been tracking my mood and panic symptoms as you suggested.",
+          "response": "Great job. This monitoring helps identify patterns in your panic and anxiety responses.",
+          "insight": "Annie is compliant with self-monitoring but remains hypervigilant."
+        },
+        {
+          "query": "I felt anxious several times but didn’t panic.",
+          "response": "That’s progress. Let’s note what helped prevent escalation.",
+          "insight": "Small wins in managing anxiety are acknowledged."
+        },
+        {
+          "query": "Mornings are still hard. I feel shaky and tense when I wake up.",
+          "response": "We’ll look into morning routines and thoughts contributing to this pattern.",
+          "insight": "Morning anxiety is a persistent trigger linked to anticipatory dread."
+        }
+      ],
+      "2025-04-08": [
+        {
+          "query": "I practiced slow breathing and it seemed to help a little.",
+          "response": "Excellent. Let’s keep reinforcing this coping technique daily.",
+          "insight": "Breathing exercises provide initial relief but require consistency."
+        },
+        {
+          "query": "It’s hard to remember when I’m not anxious.",
+          "response": "That’s common. We’ll work on habit-building when you're calm.",
+          "insight": "Skills are harder to recall outside acute anxiety states."
+        },
+        {
+          "query": "I felt deep relaxation during muscle training.",
+          "response": "That’s a powerful tool. Continue practicing to strengthen that effect.",
+          "insight": "Progressive muscle relaxation shows promise for her physical tension."
+        }
+      ],
+      "2025-04-15": [
+        {
+          "query": "I exposed myself to triggers, like shopping alone.",
+          "response": "That's a huge step. How did it feel?",
+          "insight": "Annie attempts exposure despite fear, showing growing independence."
+        },
+        {
+          "query": "It was tough but I managed without calling my husband.",
+          "response": "That shows growing confidence in your independence.",
+          "insight": "Reduction in reassurance-seeking marks progress."
+        },
+        {
+          "query": "I stayed in bed alone one morning and felt less anxious.",
+          "response": "You're learning that your body can handle these sensations. Well done.",
+          "insight": "Habituation to physical sensations reduces morning anxiety."
+        }
+      ],
+      "2025-04-20": [
+        {
+          "query": "I had several intense panic attacks last week.",
+          "response": "That sounds very difficult. Let’s break down what happened and how you responded.",
+          "insight": "Setbacks trigger self-doubt, but she reflects constructively."
+        },
+        {
+          "query": "I felt like a failure, like treatment wasn’t working.",
+          "response": "It’s okay to have setbacks. What matters is how you adapt and use your tools.",
+          "insight": "All-or-nothing thinking emerges during relapse."
+        },
+        {
+          "query": "I didn’t use coping strategies at first, then it spiraled.",
+          "response": "We can develop a plan to catch those early signs and apply strategies right away.",
+          "insight": "Recognizes the importance of early intervention in panic cycles."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Annie",
+      "age": "35",
+      "gender": "Female",
+      "residence": "USA",
+      "speaking_style": "Anxious, self-doubting; becomes more structured and reflective over sessions.",
+      "treatment_focus": "Panic disorder with avoidance behaviors"
+    }
+  },"Denise": {
+    "name": "Denise",
+    "summary": {
+      "core_values": [
+        "Loyalty",
+        "Intellectual curiosity",
+        "Justice (rigid interpretation)"
+      ],
+      "behavioral_patterns": [
+        "Withdrawal under stress",
+        "Punitive judgments of self/others",
+        "Graded reengagement (e.g., museum lectures)"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.4,
+        "agreeableness": 0.5,
+        "neuroticism": 0.8
+      },
+      "recurring_themes": [
+        "Fear of abandonment",
+        "Self-punitiveness",
+        "Hopelessness → Hope"
+      ]
+    },
+    "overall_history": "Denise is a 59-year-old former homemaker from the USA who was diagnosed with recurrent moderate to severe major depressive disorder. Across the sessions, she revealed deep feelings of despair, self-criticism, social isolation, and rigid interpersonal expectations. Through therapy, she began re-engaging with meaningful activities, reflecting on her patterns, and softening her rigid beliefs, gradually progressing toward improved emotional well-being.",
+    "history": {
+      "2025-04-01": [
+        {
+          "query": "What kind of thoughts go through your mind when you’ve had these sad feelings this past week?",
+          "response": "Well, I guess I’m thinking what’s the point of all this. My life is over. It’s just not the same... I feel mad at my husband. How could he leave me? Isn’t that terrible of me?",
+          "insight": "Denise struggles with intense guilt and anger over her husband’s death. She views herself as 'terrible' for these feelings and sees no future."
+        },
+        {
+          "query": "Do you believe right now that things won’t get better?",
+          "response": "Yes, mostly. There’s a glimmer of hope, but it’s mostly bleak.",
+          "insight": "She expresses a predominantly hopeless worldview with minimal optimism."
+        }
+      ],
+      "2025-04-08": [
+        {
+          "query": "How do you feel after staying in the house all day watching TV?",
+          "response": "Afterwards? I feel bad. I feel guilty for wasting the day.",
+          "insight": "Denise uses TV to numb her loneliness but feels worse afterward."
+        },
+        {
+          "query": "What’s stopping you from calling your friend Diane?",
+          "response": "I’ve felt so down. I have nothing to say to her.",
+          "insight": "She avoids social contact due to feeling emotionally empty and unworthy of connection."
+        }
+      ],
+      "2025-04-15": [
+        {
+          "query": "You mentioned feeling like a freak. Can you explain?",
+          "response": "I feel so different from everyone else. Other people are happily married, and I’m alone.",
+          "insight": "Denise labels herself as 'different' due to widowhood, highlighting a deep sense of isolation."
+        },
+        {
+          "query": "How might someone else view your anger at your husband?",
+          "response": "I guess they’d see it as a normal reaction to losing him and my friends. Maybe not so harsh.",
+          "insight": "Therapist challenges her punitive schema by normalizing her emotional reaction."
+        }
+      ],
+      "2025-04-22": [
+        {
+          "query": "What holds you back from being more accepting of others?",
+          "response": "I believe people must follow my rules, or they deserve punishment. If Diane prioritizes her dog over me, that’s unacceptable.",
+          "insight": "Denise recognizes the rigidity of her standards in relationships."
+        },
+        {
+          "query": "Do you still believe you’re right to punish others for breaking your rules?",
+          "response": "No... I see now that flexibility might actually help my relationships.",
+          "insight": "She begins to internalize the benefits of adopting more flexible interpersonal expectations."
+        }
+      ],
+      "2025-04-29": [
+        {
+          "query": "How did it feel to attend the museum lecture?",
+          "response": "I surprised myself—I enjoyed it! It reminded me of who I used to be.",
+          "insight": "Denise reengages with interests, leading to improved mood and self-recognition."
+        },
+        {
+          "query": "What did you learn about your standards for others?",
+          "response": "They’re too rigid. I pushed people away by demanding perfection.",
+          "insight": "She gains insight into how perfectionism has harmed her relationships."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Denise",
+      "age": "59",
+      "gender": "Female",
+      "residence": "USA",
+      "speaking_style": "Reflective, emotionally expressive, self-critical",
+      "treatment_focus": "Challenging unrelenting standards, addressing grief, rebuilding social connection"
+    }
+  }
+,"Janice": {
+    "name": "Janice",
+    "summary": {
+      "core_values": ["resilience", "independence", "healing"],
+      "behavioral_patterns": [
+        "Struggles with self-worth following trauma",
+        "Alternates between depressive withdrawal and energetic productivity",
+        "Tends to avoid conflict and isolate under stress"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.6,
+        "conscientiousness": 0.5,
+        "extraversion": 0.3,
+        "agreeableness": 0.4,
+        "neuroticism": 0.8
+      },
+      "recurring_themes": [
+        "Fear of relapse",
+        "Desire for emotional connection",
+        "Conflicted relationship with medication"
+      ]
+    },
+    "overall_history": "Janice is a 30-year-old woman living in the USA. Formerly a social worker, she now works in sales. She experiences a complex interplay of depressive and hypomanic symptoms, rooted in trauma and exacerbated by work stress and social isolation. Despite internal conflicts—particularly around medication—Janice demonstrates resilience and a strong desire for healing. She engages in activities like triathlon training to cope, but continues to wrestle with feelings of loneliness and low self-worth.",
+    "history": {
+      "2025-04-01": [
+        {
+          "query": "I’ve been feeling low and tired again, even though I sleep a lot.",
+          "response": "It sounds like the depressive symptoms are still affecting you. How is your energy during the day?",
+          "insight": "Janice experiences low energy and prolonged fatigue despite adequate sleep."
+        },
+        {
+          "query": "Still pretty low. I get bursts of energy, but then I crash.",
+          "response": "Do these bursts come with racing thoughts or goal-directed activity?",
+          "insight": "She reports fluctuations between low energy and temporary energy bursts."
+        },
+        {
+          "query": "Sometimes. I start cleaning, writing, or running long distances.",
+          "response": "That could be a sign of hypomanic symptoms. Let’s explore when these bursts usually happen.",
+          "insight": "These bursts may reflect hypomanic states, indicating a possible mixed episode pattern."
+        }
+      ],
+      "2025-04-08": [
+        {
+          "query": "I’ve been having nightmares again about my father.",
+          "response": "Those memories seem to still hold a lot of emotional weight. Do they affect your day-to-day life?",
+          "insight": "Recurring nightmares linked to trauma continue to affect her emotionally."
+        },
+        {
+          "query": "Yes, I get startled easily and avoid situations that remind me of him.",
+          "response": "That sounds like PTSD-related hypervigilance. We can work on grounding techniques together.",
+          "insight": "She displays classic PTSD symptoms such as hypervigilance and avoidance."
+        },
+        {
+          "query": "I feel broken, like I’ll never be normal.",
+          "response": "You’re not broken, Janice. You’ve survived a lot. Let’s acknowledge your strength.",
+          "insight": "Feels damaged by trauma but is encouraged to reframe her narrative around resilience."
+        }
+      ],
+      "2025-04-15": [
+        {
+          "query": "I’ve been thinking about stopping my meds again.",
+          "response": "Can you share what’s leading you to consider that?",
+          "insight": "Janice is ambivalent about continuing her medication."
+        },
+        {
+          "query": "I don’t like the side effects. And I feel like I should be strong enough without them.",
+          "response": "Many people feel this way. Let’s talk about the role of medication and your goals.",
+          "insight": "She struggles with self-image and equates medication use with weakness."
+        },
+        {
+          "query": "I don’t want to relapse though. I’ve come too far.",
+          "response": "That’s an important realization. Let’s make a plan to balance side effects and stability.",
+          "insight": "Despite doubts, she acknowledges the progress she's made and wants to avoid relapse."
+        }
+      ],
+      "2025-04-22": [
+        {
+          "query": "Work is getting stressful. I worry I might get fired.",
+          "response": "What’s been happening at work that makes you feel that way?",
+          "insight": "Job stress is triggering fears of instability and insecurity."
+        },
+        {
+          "query": "I feel fatigued, and I can’t focus. I think my boss notices.",
+          "response": "Let’s discuss strategies to manage the fatigue and support your work performance.",
+          "insight": "Fatigue and concentration issues are impacting her job performance."
+        },
+        {
+          "query": "I don’t want to lose this job. It’s better than waitressing.",
+          "response": "That motivation is valuable. We’ll build from it to help you cope with the stress.",
+          "insight": "Highly values her current job, which may serve as motivation for coping strategies."
+        }
+      ],
+      "2025-04-29": [
+        {
+          "query": "I still feel so distant from others. I miss having real friends.",
+          "response": "Moving to a new city is hard. Have you been able to meet anyone through your hobbies?",
+          "insight": "Janice feels socially isolated and is struggling to build meaningful relationships."
+        },
+        {
+          "query": "A little. I started training for a triathlon again.",
+          "response": "That’s a great step. Physical activity can support mood and help you connect with people.",
+          "insight": "She’s using exercise as a coping mechanism and way to connect with others."
+        },
+        {
+          "query": "It helps, but I still feel alone a lot.",
+          "response": "Let’s explore ways to expand your support network in this new environment.",
+          "insight": "Despite efforts, loneliness persists; there's a need to deepen social integration."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Janice",
+      "age": "30",
+      "gender": "Female",
+      "residence": "USA",
+      "speaking_style": "",
+      "treatment_focus": "Depression, trauma, medication adherence, social connection, job-related stress"
+    }
+  }
+,"Jorge": {
+    "name": "Jorge",
+    "summary": {
+      "core_values": [
+        "Family collaboration",
+        "Empirical-based decisions",
+        "Cultural sensitivity"
+      ],
+      "behavioral_patterns": [
+        "Echolalia",
+        "Escape-motivated noncompliance",
+        "Reinforcer responsiveness"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.6,
+        "conscientiousness": 0.4,
+        "extraversion": 0.3,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5
+      },
+      "recurring_themes": [
+        "Functional communication",
+        "Independence in daily living",
+        "Generalization across settings"
+      ]
+    },
+    "overall_history": "Jorge, an 8-year-old Spanish-speaking boy diagnosed with Autism, lives in the Northwestern U.S. with his parents and older sister Carmen. Initially dependent on spoon-feeding and in diapers, Jorge progressed through toilet training, independent eating, and functional communication. Key challenges included echolalia, resistance to school cooperation, and escape behaviors during tasks. Through structured reinforcement and family involvement, he achieved daytime toileting, 15 functional words, and faster mealtimes. His sister became an active part of the intervention, and the family expressed concern about long-term relapse, leading to planned follow-ups and home data collection.",
+    "history": {
+      "2025-04-12": [
+        {
+          "query": "Jorge refuses to eat independently and only consumes certain foods when spoon-fed. He also shows no interest in toilet training.",
+          "response": "Let’s begin by assessing Jorge’s current eating and toileting behaviors. Can you describe a typical mealtime and his reactions when encouraged to eat on his own?",
+          "insight": "Jorge’s dependence on spoon-feeding and lack of toileting awareness are primary concerns. Parents are motivated but skeptical due to past failures."
+        },
+        {
+          "query": "During meals, Jorge turns away or whines unless fed by us. For toileting, he shows no awareness and voids in his diaper.",
+          "response": "Thank you. We’ll prioritize these areas. First, we’ll conduct a preference assessment to identify reinforcers. Then, we’ll design a plan for independent eating and toilet training.",
+          "insight": "Preference assessments and reinforcer planning are introduced to increase independence in feeding and toileting."
+        },
+        {
+          "query": "We’ve tried toilet training before without success. What will be different this time?",
+          "response": "We’ll use a rapid toilet training method with fluid loading, scheduled sits, and overcorrection for accidents. Consistency and reinforcement will be key. Are you comfortable with this approach?",
+          "insight": "Parents are introduced to a more structured, data-driven toileting plan involving overcorrection and reinforcers."
+        }
+      ],
+      "2025-04-19": [
+        {
+          "query": "Jorge imitates words but doesn’t use them functionally. For example, he repeats 'say ball' instead of just 'ball.'",
+          "response": "This is echolalia. We’ll use prompt fading—gradually reducing the word 'say'—and reinforce only correct mands like 'ball.' Let’s practice this during play.",
+          "insight": "Echolalia interferes with functional language. Prompt fading and reinforcement of independent mands introduced."
+        },
+        {
+          "query": "He also laughs and puts his feet on the table during tasks. How do we address this?",
+          "response": "This is escape-maintained behavior. We’ll teach him to request breaks functionally. When he says 'break,' we’ll honor it briefly before redirecting him back to the task.",
+          "insight": "Escape-motivated behaviors are addressed through functional communication training and controlled reinforcement."
+        },
+        {
+          "query": "What if he keeps repeating 'say ball' even after prompts?",
+          "response": "We’ll use differential reinforcement: Ignore 'say ball' and reward only 'ball.' Consistency across all family members is critical.",
+          "insight": "Differential reinforcement strategy recommended to reduce echolalia and promote functional language."
+        }
+      ],
+      "2025-04-26": [
+        {
+          "query": "Jorge ate independently twice but only finger foods. He refuses spoon foods like yogurt.",
+          "response": "We’ll shape spoon use step-by-step. Start by reinforcing holding the spoon, then scooping, then bringing it to his lips. Use the movie reinforcer for each step.",
+          "insight": "Shaping introduced to promote spoon use with stepwise reinforcement and preferred stimuli."
+        },
+        {
+          "query": "Toilet training started, but he hasn’t urinated on the toilet yet. He’s had 8 accidents.",
+          "response": "Let’s modify the protocol. Keep him in the bathroom with a portable DVD player. When he begins voiding, quickly move him to the toilet to finish. Reinforce success immediately.",
+          "insight": "Toileting plan is intensified by adjusting environment and reinforcing partial successes."
+        },
+        {
+          "query": "His school won’t collaborate with your recommendations. What can we do?",
+          "response": "Focus on home consistency. Document his progress and share it with the school later. For now, prioritize communication, eating, and toileting at home.",
+          "insight": "Home-based consistency prioritized due to lack of school support; documentation for future collaboration advised."
+        }
+      ],
+      "2025-05-03": [
+        {
+          "query": "Jorge used 'potty' correctly today and had no accidents! But he’s still holding his bowels.",
+          "response": "Excellent progress! For bowel movements, consult his pediatrician about a laxative if needed. Continue reinforcing toilet use and gradually increase time between scheduled sits.",
+          "insight": "Milestone achieved in toileting; further support advised for bowel habits, reinforcement remains key."
+        },
+        {
+          "query": "He’s now using 15 words functionally, like 'juice' and 'outside.' But he struggles with longer phrases.",
+          "response": "Celebrate these gains! For phrases, model two-word combinations like 'want juice' and reinforce approximations. Keep language simple and functional.",
+          "insight": "Language is expanding. Functional phrasing encouraged through simple modeling and reinforcement."
+        },
+        {
+          "query": "Meals take 45 minutes. How can we speed this up?",
+          "response": "Shape faster eating by reducing pauses. Turn the movie off if he stops eating for 20 seconds. Aim for 25-minute meals by gradually shortening the duration.",
+          "insight": "Mealtime behavior targeted through response cost and gradual duration shaping."
+        }
+      ],
+      "2025-05-10": [
+        {
+          "query": "Jorge is fully toilet-trained during the day and eats independently in 20 minutes. What’s next?",
+          "response": "Fantastic! Let’s generalize skills: Practice toileting in public places and introduce new foods. Also, expand his mands to include social interactions, like 'hi' and 'help.'",
+          "insight": "Skill generalization and social communication now prioritized; independence milestones achieved."
+        },
+        {
+          "query": "His sister Carmen wants to help. How can she participate?",
+          "response": "Carmen can model language and reinforce his requests. For example, she can prompt 'What do you want?' and reward his responses. Sibling involvement boosts consistency.",
+          "insight": "Sibling participation added to increase natural reinforcement opportunities and model social language."
+        },
+        {
+          "query": "We’re worried about relapse after your sessions end.",
+          "response": "We’ll schedule follow-ups and train you to collect data. Focus on maintaining routines. Remember, relapse is normal—adjust protocols as needed using the principles you’ve learned.",
+          "insight": "Relapse prevention and parent training strategies discussed; confidence in long-term maintenance encouraged."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Jorge",
+      "age": "8",
+      "gender": "Male",
+      "residence": "Northwestern United States",
+      "speaking_style": "Limited functional language; echolalic",
+      "treatment_focus": "Toilet training, eating independence, functional communication"
+    }
+  }
+,"Nancy": {
+    "name": "Nancy",
+    "summary": {
+      "core_values": [
+        "Harmony in relationships",
+        "Professional excellence",
+        "Loyalty"
+      ],
+      "behavioral_patterns": [
+        "Over-accommodating to avoid conflict",
+        "Procrastination under interpersonal stress",
+        "Perfectionism at work"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.7,
+        "conscientiousness": 0.8,
+        "extraversion": 0.6,
+        "agreeableness": 0.9,
+        "neuroticism": 0.5
+      },
+      "recurring_themes": [
+        "Self-sacrifice vs. self-advocacy",
+        "Fear of being perceived as selfish",
+        "Parental legacy of conditional approval"
+      ]
+    },
+    "overall_history": "Nancy is a 25-year-old editorial assistant in the USA who struggles with assertiveness and guilt in close relationships. Influenced by early parental criticism labeling her as 'selfish,' she often prioritizes others' needs to avoid conflict. Through therapy, she began using tools like Thought Records, Activity Scheduling, and a Positive Data Log to challenge maladaptive beliefs and develop healthier boundaries. Over time, she has made significant progress in setting limits, recognizing distorted thoughts, and embracing small acts of self-advocacy.",
+    "history": {
+      "2025-04-12": [
+        {
+          "query": "I feel trapped by my relationships—especially with my ex-boyfriend Morrison and my roommate Connie. I can't say no without feeling guilty.",
+          "response": "It sounds like you're carrying a heavy emotional burden. Can you tell me more about what happens when you try to set boundaries with Morrison or Connie?",
+          "insight": "Nancy struggles with assertiveness due to a core belief that prioritizing her needs is selfish. Her parents' criticism reinforces this pattern."
+        },
+        {
+          "query": "Morrison keeps calling to talk about his feelings, and Connie gets upset if I don't spend time with her. I end up doing things I don’t want to do just to avoid hurting them.",
+          "response": "That must feel exhausting. What thoughts go through your mind when you consider saying no to them?",
+          "insight": "She feels guilt when declining others’ needs, tied to fear of being judged or labeled selfish."
+        },
+        {
+          "query": "I think, 'I’m a bad friend if I don’t meet their needs.' My parents always called me selfish when I put myself first.",
+          "response": "That belief seems central to your distress. Let’s explore how accurate it is. Would you judge a friend harshly for setting similar boundaries?",
+          "insight": "Her core belief equating self-prioritization with selfishness stems from childhood experiences."
+        }
+      ],
+      "2025-04-19": [
+        {
+          "query": "I tried using the Thought Record for a situation with Connie. I agreed to go out when I needed to work, and I felt terrible afterward.",
+          "response": "That’s a great start. What did you learn from filling out the Thought Record?",
+          "insight": "She’s beginning to question automatic guilt responses through cognitive techniques."
+        },
+        {
+          "query": "I realized my guilt comes from assuming Connie will be devastated if I say no. But when I imagined a friend saying no to me, I wouldn’t think they’re selfish.",
+          "response": "That’s a powerful insight. How might you test this new perspective in real life?",
+          "insight": "She recognizes distorted thinking ('mind reading') and begins cognitive restructuring."
+        },
+        {
+          "query": "Maybe by saying, 'I’d love to, but I have a deadline'? It still feels scary, though.",
+          "response": "It’s okay to feel scared. Would you be willing to role-play this scenario to practice?",
+          "insight": "Role-playing is introduced to support new behavior aligned with restructured beliefs."
+        }
+      ],
+      "2025-04-26": [
+        {
+          "query": "I told Morrison I just want to be friends. He seemed upset at first, but later he said he understood. I feel lighter, but also guilty.",
+          "response": "That took courage! Let’s examine the guilt. What’s the evidence that you did something wrong?",
+          "insight": "She sets a clear boundary and begins evaluating guilt against actual evidence."
+        },
+        {
+          "query": "I guess there isn’t any. He even thanked me for being honest. But part of me still feels like I ‘owe’ him more.",
+          "response": "That ‘owe’ idea is worth exploring. Where do you think that comes from?",
+          "insight": "The concept of 'emotional debt' arises, likely linked to early family dynamics."
+        },
+        {
+          "query": "Probably my dad. He’d say things like, 'After all I’ve done for you…' when I didn’t meet his expectations.",
+          "response": "That makes sense. How might you challenge this idea of owing people your time or emotions?",
+          "insight": "Unpacking her father's influence helps her identify the origin of her internalized expectations."
+        }
+      ],
+      "2025-05-03": [
+        {
+          "query": "I used the Activity Schedule for my trip to Puerto Vallarta. It worked! I got my work done in the mornings and still had family time.",
+          "response": "That’s fantastic progress! What helped you stick to the plan when your family pressured you?",
+          "insight": "She applies behavioral tools effectively to maintain boundaries during travel."
+        },
+        {
+          "query": "Remembering that if I didn’t set limits, I’d resent them later. That’s worse for everyone.",
+          "response": "Exactly. You’re prioritizing the long-term health of the relationship over short-term guilt. How can you apply this to other situations?",
+          "insight": "She identifies the connection between boundary-setting and relationship sustainability."
+        },
+        {
+          "query": "Maybe with emails? I spend hours writing long replies because I worry people will think I’m rude.",
+          "response": "Let’s brainstorm strategies. What if you set a timer for 15 minutes per email?",
+          "insight": "Email behavior is highlighted as a new target for assertiveness practice."
+        }
+      ],
+      "2025-05-10": [
+        {
+          "query": "I started the Positive Data Log. It feels weird writing down things like 'Asked the dry cleaner to redo my blouse' as progress.",
+          "response": "Why weird? Small acts of self-advocacy challenge your 'selfish' schema. What’s another example?",
+          "insight": "She’s learning that small acts of assertion contribute to lasting schema change."
+        },
+        {
+          "query": "Telling Pete I preferred dinner on Thursday, not Wednesday. He didn’t mind at all!",
+          "response": "That’s key evidence against your old belief. How does it feel to see these entries add up?",
+          "insight": "Positive feedback from others reinforces new self-respecting beliefs."
+        },
+        {
+          "query": "Like maybe I’m not selfish—just human. But it’s hard to trust this yet.",
+          "response": "That’s normal. Schema change takes time. Let’s keep collecting evidence together.",
+          "insight": "She begins to internalize new beliefs, though doubts remain—normal during schema reformation."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Nancy",
+      "age": "25",
+      "gender": "Female",
+      "residence": "USA",
+      "speaking_style": "Reflective, emotionally expressive, self-analytical",
+      "treatment_focus": "Assertiveness training, cognitive restructuring, schema therapy"
+    }
+  },"Ruby": {
+    "name": "Ruby",
+    "summary": {
+      "core_values": [
+        "Resilience",
+        "Family relationships",
+        "Personal growth"
+      ],
+      "behavioral_patterns": [
+        "Reflective journaling",
+        "Positive engagement with challenges",
+        "Seeking social and community connections"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.5,
+        "conscientiousness": 0.6,
+        "extraversion": 0.4,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3
+      },
+      "recurring_themes": [
+        "Overcoming stress",
+        "Rebuilding life purpose",
+        "Nurturing relationships"
+      ]
+    },
+    "overall_history": "Ruby is a 64-year-old retired office manager from a rural area in the USA. She began sessions reporting symptoms of anxiety and stress related to family and business issues. Over time, she implemented new coping strategies such as journaling, meditation, social engagement, and volunteering. Ruby made significant progress in stress management, emotional expression, and lifestyle adjustments, leading to greater balance and well-being.",
+    "history": {
+      "2025-04-10": [
+        {
+          "query": "I've been struggling with concentration, irritability, and a sense of dread about the next day.",
+          "response": "These feelings must be challenging, Ruby. Can you tell me more about how they have been impacting your daily life?",
+          "insight": "Ruby is experiencing early symptoms of emotional overwhelm, possibly linked to anxiety or depression."
+        },
+        {
+          "query": "It started about two months ago, and now I feel overwhelmed with my business and family problems.",
+          "response": "Thank you for sharing that. Let's explore small, manageable steps to ease this overwhelm.",
+          "insight": "Multiple stressors, including work and family, are contributing to Ruby's sense of overwhelm."
+        },
+        {
+          "query": "I’ve tried making lists and setting goals, but it’s not working as it used to.",
+          "response": "Those strategies have worked for you in the past, so we can build on them with some new approaches.",
+          "insight": "Past coping mechanisms are losing effectiveness, indicating a need for fresh strategies."
+        }
+      ],
+      "2025-04-17": [
+        {
+          "query": "I set up a meditation area, but it’s hard to stick to the routine.",
+          "response": "Starting new routines can be hard. Let’s focus on setting smaller, achievable goals to build this habit.",
+          "insight": "Ruby is motivated but struggling with habit formation; needs incremental goals."
+        },
+        {
+          "query": "I still feel resentful about managing the business alone.",
+          "response": "It's okay to feel that way. Expressing your feelings and setting boundaries can help alleviate this.",
+          "insight": "Unresolved resentment is affecting Ruby’s emotional balance and needs expression."
+        },
+        {
+          "query": "I managed to unpack a few boxes that were left after our move.",
+          "response": "That’s a great step forward, Ruby. Progress, no matter how small, is still progress.",
+          "insight": "Even small achievements are meaningful to Ruby and should be positively reinforced."
+        }
+      ],
+      "2025-04-24": [
+        {
+          "query": "I’ve been reflecting on my feelings about my son’s struggles.",
+          "response": "It’s courageous of you to confront those feelings. Focusing on what you can control may help ease the stress.",
+          "insight": "Ruby is processing complex emotions related to family and practicing emotional reflection."
+        },
+        {
+          "query": "I feel sad but also relieved after journaling my thoughts.",
+          "response": "Journaling is a powerful tool for processing emotions. I’m glad it’s helping you find some clarity.",
+          "insight": "Journaling provides Ruby with emotional clarity and relief."
+        },
+        {
+          "query": "I called my son to talk about his progress, not just his problems.",
+          "response": "That’s a wonderful approach. Positive reinforcement can strengthen your relationship with him.",
+          "insight": "Ruby is shifting toward more constructive communication in her family relationships."
+        }
+      ],
+      "2025-05-01": [
+        {
+          "query": "I joined a yoga class and met a few people there.",
+          "response": "That’s a fantastic step toward re-engaging socially. How do you feel about these new connections?",
+          "insight": "Ruby is actively rebuilding her social life and finding new sources of support."
+        },
+        {
+          "query": "My husband and I decided to shut down the business.",
+          "response": "That’s a big decision, Ruby. How are you feeling about taking this step forward?",
+          "insight": "Major life transitions are unfolding, and Ruby is navigating them with increased agency."
+        },
+        {
+          "query": "I’ve started volunteering at a local community center.",
+          "response": "That’s wonderful! Volunteering can bring purpose and joy. Keep nurturing this new routine.",
+          "insight": "Ruby is embracing new roles and activities that offer personal fulfillment."
+        }
+      ],
+      "2025-05-08": [
+        {
+          "query": "My husband changed his work schedule to spend more time at home.",
+          "response": "That’s a meaningful change. How has this adjustment impacted your daily life and relationship?",
+          "insight": "Shifting dynamics in her marriage are positively influencing Ruby’s emotional well-being."
+        },
+        {
+          "query": "I’ve been going on brisk walks with my new dog.",
+          "response": "That’s a lovely way to stay active and connect with your surroundings. How does it make you feel?",
+          "insight": "Ruby is integrating physical activity into her routine as a coping mechanism."
+        },
+        {
+          "query": "I’ve been managing my stresses better with these new routines.",
+          "response": "You’ve made incredible progress, Ruby. Let’s reflect on what’s been most helpful for you.",
+          "insight": "Ruby’s recent changes are effectively supporting her emotional regulation and overall stability."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Ruby",
+      "age": "64",
+      "gender": "Female",
+      "residence": "Rural area, USA",
+      "speaking_style": "Honest, thoughtful, and emotionally open",
+      "treatment_focus": "Stress management, emotional coping, life transitions"
+    }
+  },
+  "Sara": {
+    "name": "Sara",
+    "summary": {
+      "core_values": ["Independence", "Caregiving", "Responsibility"],
+      "behavioral_patterns": [
+        "Avoidance during distress",
+        "High self-expectations",
+        "Delayed emotional processing"
+      ]
+    },
+    "personality": {
+      "traits": {
+        "openness": 0.6,
+        "conscientiousness": 0.8,
+        "extraversion": 0.4,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5
+      },
+      "recurring_themes": [
+        "Self-blame vs. self-compassion",
+        "Connection after loss",
+        "Reclaiming identity beyond grief"
+      ]
+    },
+    "overall_history": "Sara is a 35-year-old nurse grieving a recent stillbirth. Initially withdrawn and self-blaming, she gradually learns to share her grief with her husband and reclaim activities like yoga. Through therapy, she works through guilt and anger while building resilience for future challenges.",
+    "history": {
+      "2025-04-12": [
+        {
+          "query": "I feel like I should be over it. It's been 2 months since the stillbirth, but I still feel sad and irritable all the time.",
+          "response": "I'm so sorry for your loss, Sara. What you're feeling is completely understandable. Can you tell me more about how you've been coping since the stillbirth?",
+          "insight": "Sara struggles with complicated grief and self-blame, resisting support due to fear of burdening others."
+        },
+        {
+          "query": "I've been avoiding everyone—my husband, friends, even coworkers. I don't want to talk about the baby or hear their advice. It just makes me angrier.",
+          "response": "It sounds like you're carrying a lot of pain and frustration. Avoiding others might feel protective, but it can also make the grief feel heavier. Have there been moments when you've wanted to reach out?",
+          "insight": "Avoidance behaviors maintain her isolation despite underlying desire for connection."
+        },
+        {
+          "query": "I just don't want to burden anyone. I'm used to being the strong one, and now I feel like a failure.",
+          "response": "You're not a failure, Sara. Grief isn't something you 'should' get over quickly. It's okay to need support. How do you think your husband or close friends would respond if you shared your feelings?",
+          "insight": "High self-expectations conflict with her need to grieve authentically."
+        }
+      ],
+      "2025-04-19": [
+        {
+          "query": "I looked at the baby's pictures and footprints last night. It was painful, but afterward, I felt a little lighter, like I could breathe again.",
+          "response": "That took a lot of courage. It's okay to feel both pain and relief. What did it mean to you to see those pictures?",
+          "insight": "Engaging with mementos facilitated emotional release and validation of her loss."
+        },
+        {
+          "query": "It made her feel real. Like she existed, even if just for a short time. But now I feel guilty for not looking sooner.",
+          "response": "Guilt is a common part of grief, but it doesn't mean you did anything wrong. You're honoring her now, and that matters. What would you like to do to remember her moving forward?",
+          "insight": "Guilt emerges alongside progress, highlighting the non-linear nature of grief."
+        },
+        {
+          "query": "Maybe... talk about her with Steve? He avoids bringing her up, and I don't know how to start.",
+          "response": "That's a meaningful idea. Would you like to practice how you might bring this up with him? We can role-play the conversation if that would help.",
+          "insight": "Beginning to consider shared grieving with her husband despite initial hesitations."
+        }
+      ],
+      "2025-04-26": [
+        {
+          "query": "I tried talking to Steve about the baby. He cried too, and said he didn't bring her up because he thought it would upset me more.",
+          "response": "That sounds like a really important moment for both of you. How did it feel to share that space with him?",
+          "insight": "Breakthrough in communication revealed mutual protective patterns that had deepened isolation."
+        },
+        {
+          "query": "It was... relieving. Like we're not alone in this anymore. But I still get angry seeing pregnant women or newborns.",
+          "response": "That anger makes sense—it's part of your grief. What do you think might help when those feelings come up?",
+          "insight": "Anger toward others reflects unmetabolized grief rather than malice."
+        },
+        {
+          "query": "Maybe reminding myself that their joy doesn't take away from my loss? It's hard, though.",
+          "response": "That's a compassionate perspective. Grief isn't linear, and it's okay to have moments of anger alongside moments of healing.",
+          "insight": "Developing capacity to hold complexity in her emotional responses."
+        }
+      ],
+      "2025-05-03": [
+        {
+          "query": "I went back to yoga this week. It felt strange being in the same studio where I took prenatal classes, but also... good.",
+          "response": "That's a big step, Sara. How did you navigate those mixed feelings during class?",
+          "insight": "Reclaiming spaces tied to pregnancy signals progress in integrating her loss."
+        },
+        {
+          "query": "I cried afterward, but not during. I focused on how strong my body felt, not just how it failed me.",
+          "response": "That shift in perspective is powerful. You're reclaiming parts of yourself that grief had overshadowed.",
+          "insight": "Beginning to challenge self-blaming narratives about her body."
+        },
+        {
+          "query": "Do you think I'll ever stop feeling guilty about the stillbirth? The doctor said it wasn't my fault, but...",
+          "response": "Guilt may lessen with time, but what matters now is how you're caring for yourself through it. What would it look like to treat yourself with the same kindness you'd offer a friend in your situation?",
+          "insight": "Persistent guilt remains a barrier to self-compassion."
+        }
+      ],
+      "2025-05-10": [
+        {
+          "query": "I told a coworker about the stillbirth. She just said, 'I'm sorry,' and didn't ask questions—exactly what I needed.",
+          "response": "You advocated for yourself beautifully. How did it feel to set that boundary and have it respected?",
+          "insight": "Demonstrates growing ability to articulate needs in social interactions."
+        },
+        {
+          "query": "Like I'm not so powerless anymore. But I'm scared about trying to conceive again. What if it happens again?",
+          "response": "That fear is valid. Let's explore how you might cope with that uncertainty. What supports would you want in place?",
+          "insight": "Future-oriented fears emerge as current grief becomes more manageable."
+        },
+        {
+          "query": "Maybe talking to other parents who've been through this? And reminding myself that I survived it once.",
+          "response": "Those are both strong strategies. You're building resilience, Sara—not by avoiding pain, but by learning to carry it differently.",
+          "insight": "Proactively planning coping strategies for future challenges."
+        }
+      ]
+    },
+    "meta_information": {
+      "name": "Sara",
+      "age": "35",
+      "gender": "Female",
+      "residence": "New York City, USA",
+      "occupation": "Nurse",
+      "speaking_style": "Initially guarded and self-critical; becomes more reflective and vulnerable over sessions",
+      "treatment_focus": "Complicated grief following stillbirth"
+    }
+  }}
